@@ -1,6 +1,6 @@
-# BuildingPolygonNet: Building Polygon Extraction Network
+# APOFormer: Adaptive Primitive Optimization Transformer for Building Polygon Extraction from remote sensing imagery
 
-BuildingPolygonNet is a deep learning-based model for building polygon extraction. It can automatically extract the polygonal contours of buildings from remote sensing images, suitable for scenarios such as urban planning and map updating.
+APOFormer is a deep learning-based model for building polygon extraction. It can automatically extract the polygonal contours of buildings from remote sensing images, suitable for scenarios such as urban planning and map updating.
 
 ## Model Architecture
 
@@ -236,6 +236,3 @@ The model output includes three parts:
 
 You can control the number of vertices of the output polygon by adjusting the `num_vertices` parameter, and control the maximum number of detected buildings by adjusting the `num_queries` parameter.
 
-要不要我帮你生成一份**模型训练指南**，包含数据准备、训练参数设置和模型评估的详细步骤？
-
-> （注：文档部分内容可能由 AI 生成）
