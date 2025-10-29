@@ -1,7 +1,7 @@
 
 # APOFormer: Adaptive Primitive Optimization Transformer for Building Polygon Extraction from remote sensing imagery
 
-APOFormer is a deep learning-based model for building polygon extraction. It can automatically extract the polygonal contours of buildings from remote sensing images, suitable for scenarios such as urban planning and map updating.
+APOFormer is a deep learning-based model for building polygon extraction. It can automatically extract the polygonal contours of buildings from remote sensing images, suitable for scenarios such as urban planning and map updating. This is an initial version, and some updates will be uploaded.
 
 ## Model Architecture
 
